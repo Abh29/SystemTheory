@@ -841,37 +841,255 @@ The functional complexity of a system reflects the difficulty in creating, under
 Dynamic complexity is the result of interactions within a system with temporal delays. Time delays between decision-making and results slow down the process of accumulating experience, testing hypotheses, and improving the system.
 Example: playing chess.
 
+Key aspects of dynamic complexity include:
 
+1. **Temporal Dependence:** The system's behavior and structure change over time in response to internal and external influences. This can involve changes in the system's state, the emergence of new components, or the alteration of existing connections.
+2. **Feedback Loops:** Dynamic systems often contain feedback loops, where the output of a component or subsystem influences its input. This can lead to oscillations, cycles, or transient states, adding another layer of complexity to the system's behavior.
+3. **Adaptability:** The ability of the system to adapt to changes in the environment or inputs is a significant aspect of dynamic complexity. Systems with high dynamic complexity can adjust their structure or behavior to maintain stability or achieve goals in response to external or internal changes.
+4. **Emergent Properties:** Dynamic systems often exhibit emergent properties, where the overall behavior of the system cannot be predicted solely from the properties of the individual components. The collective behavior arises from the interactions between components and the system's response to external stimuli.
+5. **Nonlinear Dynamics:** Many dynamic systems exhibit nonlinear behavior, where small changes in input can lead to significant changes in output. This can make the system's behavior unpredictable and complex.
 
-
-
-
-
-
-
+Dynamic complexity is particularly prevalent in systems such as ecosystems, economies, social networks, and technological systems like computer networks and software systems. Understanding and managing dynamic complexity is crucial for effective system design, control, and optimization, as it can significantly impact the system's performance, stability, and adaptability.
 
 
 ## 31. Small, large, simple, complex systems are examples.
+1. **Small Systems:**
+   - **Example:** A clock with a mechanism. It consists of a limited number of parts and performs a specific function - showing time.
+
+2. **Large Systems:**
+   - **Example:** The global Internet infrastructure. This is a combination of billions of computers and other devices worldwide for the exchange of information.
+
+3. **Simple Systems:**
+   - **Example:** A motion sensor in a house. This device has limited functionality and simply reacts to movement, sending a signal about it.
+
+4. **Complex Systems:**
+   - **Example:** The transportation system of a large city. Includes numerous interconnected elements such as roads, public transport, traffic lights, and traffic management systems.
+
+5. **Small and Complex Systems:**
+   - **Example:** A small microcontroller with a program and several connected sensors. It can be small in size, but complex in its functionality.
+
+6. **Large and Simple Systems:**
+   - **Example:** A production line with identical machines performing the same task. Each machine is simple in its function, but their number forms a large system.
+
+
+
 ## 32. Classification of systems by degree of organization.
+
+1. **Well-Organized Systems:**
+   - **Description:** These systems have a clear and stable structure. The internal elements interact in an organized and predictable manner.
+   - **Example:** An industrial robot that performs a specific task within strictly defined parameters.
+
+2. **Poorly Organized Systems (Diffuse):**
+   - **Description:** These systems may have an undefined or weakly structured organization. Interaction between elements may be less predictable.
+   - **Example:** Many social networks, where information and interaction can be diffuse and non-obvious.
+
+3. **Self-Organizing or Evolving Systems:**
+   - **Description:** These systems have the ability to change their structure, adapt to changing conditions, and evolve over time without external management.
+   - **Example:** A forest ecosystem, where elements (plants, animals) interact and can self-regulate their population and interaction.
+
+
 ## 33. Well-organized systems. Examples.
+Well-organized systems:
+- **Description:** These systems have a clear and stable structure. The internal elements interact in an organized and predictable manner.
+- **Example:** An industrial robot that performs a specific task within strictly defined parameters.
+
+
 ## 34. Poorly organized systems. Examples.
+Poorly organized systems (diffuse):
+- **Description:** These systems may have an undefined or weakly structured organization. The interaction between elements can be less predictable.
+- **Example:** Many social networks, where information and interaction can be diffuse and non-obvious.
+
+
 ## 35. Self–organizing systems are the main properties. Examples.
+Self-organizing systems have the ability to organize and structure their components without external management.
+
+**Main properties:**
+1. **Autonomy:**
+   - **Example:** An anthill, where ants act autonomously, resulting in a complex structure of the anthill.
+2. **Local Interactions:**
+   - **Example:** The behavior of a flock of birds or fish, where individuals follow simple rules, but together create complex formations.
+3. **Adaptability:**
+   - **Example:** A network of neurons in the brain, which can change its structure in response to new experiences and tasks.
+4. **Emergence:**
+   - **Example:** Swarm behavior of bees, where the overall goal of the swarm can emerge from the local actions of each bee.
+5. **Dynamic Stability:**
+   - **Example:** A forest ecosystem, which is capable of recovering after natural disasters or climate changes.
+
+
+
 ## 36. Measuring the amount of information is the Hartley formula.
+Hartley proposed to determine the information I pertaining to one message by taking the logarithm of the total number of possible messages N:
+      
+      I = log₂(N)
+
+For example: If we have a system where there are  8 equally probable outcomes (for example,  8 different symbols or states), then the amount of information for each of these outcomes will be:
+I = log₂(8) = 3 bits
+
+If, however, the entire set of possible messages consists of just one (N = m =  1), then I = log2(1) = 0, which corresponds to the absence of information in this case. 
+When there are independent sources of information with N1 and N2 numbers of possible messages:
+N = N1 * N2
+I = log₂(N) = log₂(N1 * N2) = log₂(N1) + log₂(N2) = I1 + I2 
+
+This formula allows for the quantification of the amount of information contained in a message based on the number of possible messages and the length of the message, under the assumption that all messages are equiprobable 
+
+
 ## 37. Shannon's formula for measuring the total amount of information.
+Shannon's formula is used to measure entropy and the amount of information in a system. This formula was developed by Claude Shannon. The formula looks as follows:
+
+H(X) = - ∑ᵢp(xi) log(p(xi))
+
+where:
+- H(X) is the entropy of the random variable X,
+- p(xi)is the probability of outcome xi ,
+- xi  are the possible outcomes of the random variable X.
+
+Shannon's formula allows for the estimation of the average "uncertainty" (or "degree of chaos") in a system. The higher the entropy, the less predictable the system is, and therefore, the more information is required to describe its state [Source  0][Source  4].
+
+
+
 ## 38. The entropy of the system.
+Entropy in the context of information theory, introduced by Claude Shannon, measures the degree of uncertainty or "disorder" in a system. Entropy is a measure of the average information needed to describe the state of the system. The formula for calculating entropy (H) in a system, where X is a random variable with n possible states, is given as follows:
+
+H(X) = - ∑ᵢp(xi) log(p(xi))
+
+**Main Ideas Related to Entropy:**
+1. **High Entropy:**
+   - High entropy indicates a high degree of uncertainty or randomness in the system.
+   - Example: A random sequence of bits in a computer memory has high entropy because each bit is equally likely to be either  0 or  1.
+
+2. **Low Entropy:**
+   - Low entropy suggests a system that is more predictable or ordered.
+   - Example: A document that is sorted alphabetically has low entropy because the sequence of characters is highly predictable.
+
+3. **Entropy and Information:**
+   - Entropy can be seen as a measure of the amount of information needed to describe the state of a system.
+   - Higher entropy systems require more information to describe accurately, while systems with lower entropy can be described with less information.
+
+
+
 ## 39. Entropy of a system with equally possible states.
+
+If the system has equally possible states, then the probability of each state P(xi) is the same for all states. In this case, the formula for calculating entropy is simplified.
+
+H(X) = - ∑ᵢp(xi) log(p(xi)) = - ∑ᵢ1/n log(1/n) = log(n)
+
+
 ## 40. The theorem on the maximum entropy of a system with a finite set of states.
+The Entropy of a system is maximum when all the elements of the system have the same probability i.e H(X) = log(n)
+If the probability of one of the n states of the system being equal to  1, then the entropy is equal to  0. The entropy of a system with equally possible states is equal to the logarithm of the number of states:
+
+H(X) <= log(n)
+
+**Example  1:**
+Determine the maximum possible entropy of a system consisting of three elements, each of which can be in four possible states.
+n = 4 * 4 * 4 = 64  => H(x) = log2(64) = 6
+
+**Example  2:**
+Determine the maximum possible entropy of a message consisting of  5 letters, where the total number of letters in the alphabet is equal to  32.
+n = 32⁵  => H(X) = log(32⁵) = 5 * log(32) = 25
+
+
 ## 41. Proof of the maximum entropy theorem of a system with a finite set of states.
+we need to prove that H(X) <= log(n)
+
+let the <X: {Px| x in X}> a set where Px is the probability of the variable x in X, and |X| = n and ∑Px = 1
+
+H(X) - log(n) = ∑ Px * log(1/Px) - log(n) = ∑Px*log(1/Px) + ∑Px*log(n)  sinse log(n) is a constantce and the sum of Px is 1
+then H(X) - log(n) = ∑ Px * log(1/nPx)  <=   ∑Px (1/nPx - 1) <= ∑1/n - ∑Px <= 0   since log(x) <= x - 1 
+then H(x) <= log(n)
+
+further more for H(X) == log(n) ==> log(1/nPx) == 1/nPx - 1   ==> 1/nPx = 1 ==> Px = 1/n
+
+
 ## 42. How to determine the maximum possible entropy of a system consisting of n elements, each of which can be in m possible states.
+To determine the maximum possible entropy of a system consisting of \(n\) elements, each of which can be in \(m\) possible states, you would follow a process that involves identifying the various states the system can exist in and the parameters involved in any constraints. The principle of maximum entropy suggests that the probability distribution that best represents the current state of knowledge about a system is the one with the largest entropy, considering precisely stated prior data or testable information.
+
+For a system with \(n\) elements and \(m\) possible states, the total number of possible states (\(M\)) is \(m^n\). This is because each of the \(n\) elements can be in any of the \(m\) states, and there are \(m\) choices for each element.
+
+The maximum entropy of a system with \(n\) elements and \(m\) possible states can be calculated using the formula for entropy in the context of information theory or statistical mechanics:
+
+H(X) = log(N) = log(m^n) = n log(m)
+
+
+This formula indicates that the maximum entropy increases linearly with the number of elements (\(n\)) and logarithmically with the number of possible states (\(m\)). It shows that as the number of elements increases, the maximum entropy of the system also increases, and as the number of possible states increases, the maximum entropy increases at a slower rate.
+
+It's important to note that this calculation assumes that all \(m^n\) states are equally probable, which might not be the case in a real system. The principle of maximum entropy is used to find the most unbiased or uninformed distribution, given a set of constraints or conditions [Source  0][Source  4].
+
+
+
 ## 43. The entropy of a system that is an association of independent systems.
+let X and Y be two sets of descreet variables with a probability law 
+H(X,Y) = - ∑ ∑ Pxy log(Pxy)
+H(x,y) = H(X) + H(Y|X) = H(Y) + H(X|Y)
+if X and Y are independent then H(X,Y) = H(X) + H(Y)
+
+
 ## 44. Proof of the theorem on calculating the entropy of a system consisting of independent systems.
+
+H(X,Y) = - ∑ ∑ Pxy log(Pxy) = - ∑ ∑ Pxy log(Pxy) =  - ∑ ∑ Px.Py|x log(Px.Py|x) =  - ∑ ∑ Pxy log(Py|x)  - ∑ ∑ Pxy log(Px) = H(Y|X) + H(X)
+since X and Y are independent H(X,Y) = H(X) + H(Y)
+
 ## 45. Calculation of the total conditional entropy of systems.
+
+H(X|Y) = - ∑Py ∑Px|y log(Px|y) = - ∑∑ Pxy log(Px|y)
+H(X,Y) = - ∑ ∑ Pxy log(Pxy) = - ∑ ∑ Pxy log(Pxy) =  - ∑ ∑ Px.Py|x log(Px.Py|x) =  - ∑ ∑ Pxy log(Py|x)  - ∑ ∑ Pxy log(Px) = H(Y|X) + H(X)
+
 ## 46. Proof of the theorem on the total conditional entropy of systems.
+
+H(X|Y) = - ∑Py ∑Px|y log(Px|y) = - ∑∑ Pxy log(Px|y)
+
+
 ## 47. Calculation of the entropy of a system that is a union of dependent systems.
 ## 48. Proof of the theorem on calculating the entropy of a system that is a union of dependent systems.
+ ...
+
 ## 49. Additivity of the system. Examples.
+
+The additivity of a system means that the entropy of a system composed of independent subsystems is equal to the sum of the entropies of these subsystems. In other words, if we have a system S consisting of subsystems A and B, the additivity of the system is expressed as follows:
+
+H(S) = H(A) + H(B)
+
+This implies that the subsystems A and B are independent of each other. If the subsystems are dependent, additivity may not hold, and instead, conditional entropy is used.
+
+Examples:
+1. **Two independent gases**
+2. **Two independent computers**
+3. **Two independent blocks of ice**
+4. **Two independent quantities of information**
+
+
 ## 50. Equifinality in the theory of systems. Examples.
+
+Equifinality in the theory of systems means that different systems can achieve the same final state (final state) through various paths or through different processes. This concept emphasizes that despite differences in initial conditions or structures of systems, they all can converge to a common final outcome.
+
+Examples:
+1. **Plant Growth:**
+2. **Learning Processes:**
+3. **Species Evolution:**
+4. **Software Development:**
+5. **Ecosystems:**
+
+
 ## 51. Patterns of the part and the whole. Emergence. Examples.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 52. Communication of the system. Examples.
 ## 53. Zipf's principle of least action.
 ## 54. The main content of the system analysis.
