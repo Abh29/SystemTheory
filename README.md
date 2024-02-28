@@ -81,89 +81,112 @@
 
 
 /************************************************/
-
+# The Content
 
 1. The Concept of A System. Definitions of the system in terms of set theory.
+[read](#1-the-concept-of-a-system-definitions-of-the-system-in-terms-of-set-theory)
 2. Definitions of the system in terms of set theory, including a set of input objects affecting the system and a set of output results.
+[read](#2-definitions-of-the-system-in-terms-of-set-theory-including-a-set-of-input-objects-affecting-the-system-and-a-set-of-output-results)
 3. Definitions of the system in terms of set theory, including a set of input objects affecting the system, a set of output results, as well as a set of properties characterizing both individual elements and the entire system as a whole.
+[read](#3-definitions-of-the-system-in-terms-of-set-theory-including-a-set-of-input-objects-affecting-the-system-a-set-of-output-results-as-well-as-a-set-of-properties-characterizing-both-individual-elements-and-the-entire-system-as-a-whole)
 4. The definition of a system that includes observers and a set of goals.
+[read](#4-the-definition-of-a-system-that-includes-observers-and-a-set-of-goals)
 5. Basic concepts characterizing the system, including concepts that characterize the structure of the system, as well as the functioning and development of the system.
+[read](#5-basic-concepts-characterizing-the-system-including-concepts-that-characterize-the-structure-of-the-system-as-well-as-the-functioning-and-development-of-the-system)
 6. System status: definition and examples. Input effects, output signals, macro properties of the system. The state space of the system.
+[read](#6-system-status-definition-and-examples-input-effects-output-signals-macro-properties-of-the-system-the-state-space-of-the-system)
 7. System behavior: definition and examples.
+[read](#7-system-behavior-definition-and-examples)
 8. Equilibrium of the system: definition and examples.
+[read](#8-equilibrium-of-the-system-definition-and-examples)
 9. System stability: definition and examples.
+[read](#9-system-stability-definition-and-examples)
 10. The scheme of the system with a single feedback. Examples.
+[read](#10-the-scheme-of-the-system-with-a-single-feedback-examples)
 11. Stratification as a means of detailing the description of the system.
 12. The structure of the system. Types of structures.
 13. Network structures: definition and examples.
 14. Hierarchical structures: definition and examples.
 15. Multilevel hierarchical structures, strata and echelon: definition and examples.
+[read](#15-multilevel-hierarchical-structures-strata-and-echelon-definition-and-examples)
 16. Multi-level hierarchical structure. Examples.
 17. Mixed hierarchical structures with vertical and horizontal links.
 18. Stratified description of the system. Examples.
 19. Stratified representation of the system as a means of its detailing.
 20. Matrix structures, strong and weak connections: definition and examples.
+[read](#20-matrix-structures-strong-and-weak-connections-definition-and-examples)
 21. Principles of classification of systems.
 22. Open and closed systems. Examples.
 23. Classification of systems by complexity
 24. A large system. Examples.
 25. Estimates of the complexity of the systems. Examples.
+[read](#25-estimates-of-the-complexity-of-the-systems-examples)
 26. Big and complicated: comparison. Examples.
 27. A large and complex system: the observer.
 28. Quantitative assessment of the complexity of a system with n elements and m connections.
 29. Functional complexity of the system.
 30. Dynamic complexity of the system.
+[read](#30-dynamic-complexity-of-the-system)
 31. Small, large, simple, complex systems are examples.
 32. Classification of systems by degree of organization.
 33. Well-organized systems. Examples.
 34. Poorly organized systems. Examples.
 35. Self–organizing systems are the main properties. Examples.
+[read](#35-self–organizing-systems-are-the-main-properties-examples)
 36. Measuring the amount of information is the Hartley formula.
 37. Shannon's formula for measuring the total amount of information.
 38. The entropy of the system.
 39. Entropy of a system with equally possible states.
 40. The theorem on the maximum entropy of a system with a finite set of states.
+[read](#40-the-theorem-on-the-maximum-entropy-of-a-system-with-a-finite-set-of-states)
 41. Proof of the maximum entropy theorem of a system with a finite set of states.
 42. How to determine the maximum possible entropy of a system consisting of n elements, each of which can be in m possible states.
 43. The entropy of a system that is an association of independent systems.
 44. Proof of the theorem on calculating the entropy of a system consisting of independent systems.
 45. Calculation of the total conditional entropy of systems.
+[read](#45-calculation-of-the-total-conditional-entropy-of-systems)
 46. Proof of the theorem on the total conditional entropy of systems.
 47. Calculation of the entropy of a system that is a union of dependent systems.
 48. Proof of the theorem on calculating the entropy of a system that is a union of dependent systems.
 49. Additivity of the system. Examples.
 50. Equifinality in the theory of systems. Examples.
+[read](#50-equifinality-in-the-theory-of-systems-examples)
 51. Patterns of the part and the whole. Emergence. Examples.
 52. Communication of the system. Examples.
 53. Zipf's principle of least action.
 54. The main content of the system analysis.
 55. Types of problem handling in system analysis.
+[read](#55-types-of-problem-handling-in-system-analysis)
 56. Classification of problems in system analysis.
 57. Methodology of system analysis.
 58. Principles of complexity and consistency in system analysis. Examples.
 59. Examples of configurators in system analysis.
 60. The main stages of the system analysis.
+[read](#60-the-main-stages-of-the-system-analysis)
 61. The model of the system. Examples.
 62. Classification of models. Types of models.
 63. Cluster analysis – basic concepts.
 64. The k-means algorithm.
 65. Hierarchical clustering algorithms.
+[read](#65-hierarchical-clustering-algorithms)
 66. The algorithm for constructing a dendrogram.
 67. The distance between clusters.
 68. The distances between the elements. Euclid's distance, etc.
 69. The Levenshtein distance.
 70. The Wagner—Fischer algorithm for calculating the Levenshtein distance.
+[read](#70-the-wagnerfischer-algorithm-for-calculating-the-levenshtein-distance)
 71. IDEF0 is a model. Examples.
 72. UML. A diagram of use cases – purpose, notation, and examples.
 73. UML. Sequence diagram – purpose, notation and examples.
 74. UML. Cooperation diagram – purpose, notation and examples.
 75. UML. Class diagram – purpose, notation and examples.
+[read](#75-uml-class-diagram-–-purpose-notation-and-examples)
 76. UML. Class diagram – links between classes.
 77. UML. State diagram– purpose, notation and examples.
 78. UML. Component diagram – purpose, notation and examples.
 79. UML. Creating a placement diagram – assignment, notation, and examples.
 80. Principles of program code generation based on UML diagrams.
-
+[read](#80-principles-for-generating-programming-code-from-uml-diagrams)
 
 
 
@@ -171,7 +194,6 @@
 
 
 ## 1. The Concept of A System. Definitions of the system in terms of set theory.
-
 In the context of set theory, a system can be defined as a well-defined collection of objects, which are referred to as elements of the set. The term "well-defined" emphasizes that the collection is clear and distinct, meaning thatthe elements are clearly identified and separated from other elements not included in the set. This concept is fundamental to set theory, which is a branch of mathematical logic that deals with collections of objects, known as sets
 
 The concept of a system in terms of set theory can be defined as follows:
@@ -184,7 +206,7 @@ The concept of a system in terms of set theory can be defined as follows:
 Example: Let A be a set representing the system. The elements of this set (A) will be the components of the system. Relationships between elements can be represented using relations within the set. The boundaries of the system can be defined as a subset of A, representing the system itself. The purpose of the system can be expressed as a subset of A, which corresponds to a specific function or goal of the system.
 
 
-
+[up](#the-content)
 ## 2. Definitions of the system in terms of set theory, including a set of input objects affecting the system and a set of output results.
 
 This can be formulated as follows:
@@ -197,8 +219,7 @@ This can be formulated as follows:
 Example: Let I be the set of input objects, O the set of output results, and S the set of elements of the system. Then, the system can be defined as a mapping (function) f: I → O, where each input element from I is associated with the corresponding output element from O through the function f. This mapping can be represented in terms of set theory, and the properties of the system can be analyzed using the corresponding operations.
 
 
-
-
+[up](#the-content)
 ## 3. Definitions of the system in terms of set theory, including a set of input objects affecting the system, a set of output results, as well as a set of properties characterizing both individual elements and the entire system as a whole.
 
 In essence, a system, when defined in terms of set theory, is a well-defined collection of objects (elements) that interact with each other and produce a well-defined collection of outcomes. The system's properties, whether they pertain to individual elements or the system as a whole, can be represented as additional properties or subsets of the set that represents the system. This approach allows for a structured and logical way to define and analyze systems using the principles of set theory 1.
@@ -212,7 +233,7 @@ In essence, a system, when defined in terms of set theory, is a well-defined col
 Example: Let I be the set of input objects, O the set of output results, and P the set of properties. Then, the system can be defined as a tuple (I, S, O, P), where S represents the set of elements of the system. The elements of the system are characterized by properties from P, and the system as a whole functions as a mapping (function) f: I → O, where each input element is associated with the corresponding output element through the function f. This mapping can be represented in terms of set theory, and the properties of the system can be analyzed using the corresponding operations.
 
 
-
+[up](#the-content)
 ## 4. The definition of a system that includes observers and a set of goals.
 
 - **Set of Input Objects (I)**: Represents the set of all elements that influence the system. These elements may include external factors, data from observers, or other input parameters.
@@ -225,7 +246,7 @@ Example: Let I be the set of input objects, O the set of output results, and P t
 Example: Let I be the set of input objects, O the set of output results, N the set of observers, and G the set of goals. Then, the system can be defined as a tuple (I, S, O, N, G), where S represents the set of elements of the system. The interactions between system elements and observers, as well as the pursuit of goals, can be formalized using set theory operations and mappings.
 
 
-
+[up](#the-content)
 ## 5. Basic concepts characterizing the system, including concepts that characterize the structure of the system, as well as the functioning and development of the system.
 
 the basic concepts characterizing a system include its elements, structure, functioning, and development. These concepts provide a framework for understanding how systems work, how they are organized, and how they evolve over time.
@@ -255,7 +276,7 @@ the basic concepts characterizing a system include its elements, structure, func
 This definition highlights the importance of comprehensive, interdisciplinary understanding and analysis in achieving sustainable development. It emphasizes the role of observers in synthesizing insights and identifying effective solutions, reflecting the complexity and interconnectedness of systems within various fields and disciplines 3.
 
 
-
+[up](#the-content)
 ## 6. System status: definition and examples. Input effects, output signals, macro properties of the system. The state space of the system.
 The concept of system status in set theory involves understanding the state of a system at a given moment, the effects of inputs on the system, the outputs produced by the system, and the overall properties of the system. Here's a detailed explanation:
 
@@ -274,7 +295,7 @@ For example, in a mechanical rotating system, the energy variables (potential an
 The state space representation of a system is a powerful method for mathematically representing a system, allowing for the analysis and control of the system's behavior [3][4].
 
 
-
+[up](#the-content)
 ## 7. System behavior: definition and examples.
 System behavior refers to the change within a system that leads to events in itself or other systems, including actions, reactions, or responses. This concept is rooted in system science, where any system exhibits behavior if its actions are visible to other systems around it. The behavior of a system can be observed in its operational environment, affecting itself or other systems through interactions and feedback loops [1].
 
@@ -289,7 +310,7 @@ Examples of system behavior include:
 Understanding system behavior is crucial for systems engineering and design, as it informs the process of designing systems to predict and influence their behavior over time. This knowledge is essential for identifying how to effect change and the likely outcomes of interventions, both desirable and undesirable. The behavior of systems can be influenced by feedback loops, emergent properties, and the complexity of the system, which can be either simple or dynamically complex [2].
 
 
-
+[up](#the-content)
 ## 8. Equilibrium of the system: definition and examples.
 
 Equilibrium in a system refers to a state of balance or stability, where the opposing or competing influences within the system are in equilibrium, meaning they are in a state of balance such that there is no net change. This concept is applicable across various fields, including physics, chemistry, biology, and economics, among others.
@@ -309,7 +330,7 @@ Examples of system equilibrium include:
    - Thermodynamic equilibrium: If the system is in a state where its thermodynamic parameters, such as temperature and pressure, remain constant, it is in thermodynamic equilibrium [6].
 
 
-
+[up](#the-content)
 ## 9. System stability: definition and examples.
 System stability refers to the property of a system to return to its equilibrium state after being disturbed, either by moving closer to or away from its equilibrium position. A system in stable equilibrium tends to return to or oscillate about its original equilibrium state when disturbed, while an unstable system continues to move away from its equilibrium state when disturbed.
 
@@ -331,7 +352,7 @@ Equilibrium is a state of balance within a system, where the internal forces and
 Stability refers to the system's ability to return to its equilibrium state after being disturbed. A stable system can be in equilibrium but will return to its equilibrium state when disturbed, while an unstable system will not return to its equilibrium state after being disturbed and will instead continue to move away from it.
 
 
-
+[up](#the-content)
 ## 10. The scheme of the system with a single feedback. Examples.
 A system with a single feedback is a structure where a part or all of the output signal is returned to the input with a certain feedback coefficient. This creates a feedback loop that can influence the dynamics and characteristics of the system. Schematically, such a system can be represented by the following block diagram:
 
@@ -353,7 +374,7 @@ In this scheme:
 Feedback plays a crucial role in enhancing the performance of control systems by allowing the system to adjust its output based on the difference between the desired output and the actual output. This adjustment can improve stability, accuracy, and speed of the system's response to changes, and it can minimize overshoot and oscillations [1][3][4].
 
 
-
+[up](#the-content)
 ## 11. Stratification as a means of detailing the description of the system.
 
 Stratification in systems, particularly in the context of social systems, refers to the process of dividing a system into layers or strata for a more detailed and structured analysis. This method aids in simplifying complex systems, making them more comprehensible and manageable. When describing a system, stratification can be employed to highlight the main components and their interconnections.
@@ -367,7 +388,7 @@ Stratification in systems, particularly in the context of social systems, refers
 In the context of social stratification, this method can be applied to societal structures to understand how individuals and groups are organized and differentiated based on factors such as wealth, income, education, family background, and power. Social stratification can be either open or closed, with open systems allowing for more movement and interaction between layers and classes, while closed systems accommodate little change in social position [0][1][2][4].
 
 
-
+[up](#the-content)
 ## 12. The structure of the system. Types of structures.
 The structure of a system reflects the organization of its components and their interconnections. Examining the structure of a system allows us to understand how components interact with each other and how its functioning is ensured. The types of system structures can vary depending on the characteristics and properties of the system.
 
@@ -397,7 +418,7 @@ The structure of a system reflects the organization of its components and their 
    - **Example:** A software architecture, where different parts can be developed and modified independently.
 
 
-
+[up](#the-content)
 ## 13. Network structures: definition and examples.
 
 **Definition:**
@@ -427,7 +448,7 @@ Network structures represent the organization of a system as a network, where co
    - **Example:** A network of suppliers and manufacturers in the automotive industry.
 
 
-
+[up](#the-content)
 ## 14. Hierarchical structures: definition and examples.
 **Definition:**
 Hierarchical structures represent the organization of a system in a hierarchy, where components are divided into levels, and each level provides more abstract or general elements. At the top of the hierarchy is the highest level, with lower levels below it, each refining and detailing elements from the previous level.
@@ -454,7 +475,7 @@ Hierarchical structures represent the organization of a system in a hierarchy, w
    - **Example:** The highest level - Local network (LAN), followed by subnets, then computers and devices in each subnet.
 
 
-
+[up](#the-content)
 ## 15. Multilevel hierarchical structures, strata and echelon: definition and examples.
 **Definition:**
 Multilevel hierarchical structures represent the organization of a system with more than two levels of hierarchy. This means the presence of several levels, where each subsequent level represents more specific and detailed elements than the previous one.
@@ -501,7 +522,7 @@ An echelon represents a group or layer of people or objects, arranged in a line 
  while both strata and echelons describe levels within a hierarchical system, strata focus on the organization and categorization of components into layers or levels, and echelons focus on the sequence or rank of positions within the hierarchy.
 
 
-
+[up](#the-content)
 ## 16. Multi-level hierarchical structure. Examples.
 Examples:
 1. **Business Structure:**
@@ -542,7 +563,7 @@ Examples:
    - *Level  5:* Individual organisms
 
 
-
+[up](#the-content)
 ## 17. Mixed hierarchical structures with vertical and horizontal links.
 
 Mixed hierarchical structures combine both vertical (hierarchical) and horizontal connections between elements of a system. Below are examples of mixed structures:
@@ -573,7 +594,7 @@ Mixed hierarchical structures combine both vertical (hierarchical) and horizonta
 
 Mixed hierarchical structures aim to integrate the best of both worlds, leveraging the strengths of both vertical and horizontal structures. This approach can enhance efficiency, flexibility, and collaboration across different areas of a project or organization [2][3][4].
 
-
+[up](#the-content)
 ## 18. Stratified description of the system. Examples.
 
 Stratification is a method of organizing a system into levels or layers to ensure a clearer and more systematic representation. Below are examples of stratification in the description of various systems:
@@ -616,7 +637,7 @@ Stratification is a method of organizing a system into levels or layers to ensur
 - *Level  4:* Individual Employees**
 
 
-
+[up](#the-content)
 ## 19. Stratified representation of the system as a means of its detailing.
 The stratified representation of a system is a method of detailing or organizing the system into layers or strata. This approach is particularly useful in systems that are complex and require a more structured way to analyze or understand their components and their interactions.
 
@@ -628,7 +649,7 @@ The stratified representation of a system is a method of detailing or organizing
 
 This method is beneficial for simplifying complex systems, making them more comprehensible and manageable. It aids in identifying the main components and their interactions, which is crucial for understanding the overall functioning of the system. Stratified representation can be applied in various fields, including mechanical design, computer science, and database management, where it helps in organizing data and systems into a more structured and understandable format [Source  3].
 
-
+[up](#the-content)
 ## 20. Matrix structures, strong and weak connections: definition and examples.
 Matrix structures, particularly within the context of organizational structures, refer to a hybrid approach that combines elements of both functional and projectized structures. This type of structure is beneficial for organizations operating in dynamic environments, offering flexibility and efficiency in managing resources and projects.
 
@@ -647,7 +668,7 @@ Matrix structures, particularly within the context of organizational structures,
 Matrix organizational structures are particularly beneficial in industries requiring cross-functional collaboration, quick resource reprioritization, and managing large or complex projects that require multiple skill sets [0][1][3].
 
 
-
+[up](#the-content)
 ## 21. Principles of classification of systems.
 
 The principles of classification help organize and structure various types of systems for more effective understanding and management of them.
@@ -678,7 +699,7 @@ The principles of classification help organize and structure various types of sy
    - **Social systems:** Organized for interaction and joint activity of people (e.g., society).
 
 
-
+[up](#the-content)
 ## 22. Open and closed systems. Examples.
 
 1. **Open Systems:**
@@ -694,7 +715,7 @@ The principles of classification help organize and structure various types of sy
    - **Closed Gas Bottle:** The gas inside the bottle is isolated from external air.
 
 
-
+[up](#the-content)
 ## 23. Classification of systems by complexity
 
 Classification of systems by complexity typically involves dividing systems into categories based on the number and complexity of interactions between their elements.
@@ -712,7 +733,7 @@ Classification of systems by complexity typically involves dividing systems into
 This classification provides a structured way to understand and manage the complexity of systems, from simple mechanical devices to vast ecosystems and the universe itself. Each category represents a different level of complexity, with systems at the lower end being relatively straightforward and those at the higher end being incredibly complex and interconnected [Source  0][Source  1][Source  3].
 
 
-
+[up](#the-content)
 ## 24. A large system. Examples.
 
 The term "big system" is typically used to describe a system that encompasses numerous elements, components, or subsystems, making it complex and extensive. Here are several examples of large systems:
@@ -738,7 +759,7 @@ The term "big system" is typically used to describe a system that encompasses nu
    - **Example:** The state system of the United States, including federal, state, and local levels of government.
 
 
-
+[up](#the-content)
 ## 25. Estimates of the complexity of the systems. Examples.
 
 The assessment of system complexity often does not reduce to a simple mathematical formula. In the context of systems engineering and operations research, certain metrics can be used to evaluate complexity. However, note that these metrics can be context-dependent and may not always be easily expressed in a mathematical formula.
@@ -768,7 +789,7 @@ In the provided formulas for assessing system complexity, two different approach
 These metrics and formulas provide a structured way to quantify and analyze the complexity of systems, aiding in the design and management of complex systems.
 
 
-
+[up](#the-content)
 ## 26. Big and complicated: comparison. Examples.
 
 The terms "big" and "complex" can be used in different contexts, and their comparison depends on the specific aspect or characteristic of the system in question. Let's examine the comparison between "big" and "complex," providing examples for each.
@@ -785,13 +806,13 @@ The terms "big" and "complex" can be used in different contexts, and their compa
 
 The distinction between "big" and "complex" systems lies in the nature of their size and complexity. A big system is large in terms of its scale or number of elements, while a complex system is characterized by the complexity of its interconnections and structure.
 
-
+[up](#the-content)
 ## 27. A large and complex system: the observer.
 
 The concepts of "big" and "complex" systems are associated with the concept of an "observer" for studying these systems. To study a big system, one "observer" is needed (this does not refer to the number of people participating in the study or design of the system but rather to the relative homogeneity of their qualifications, such as an engineer or economist), while to understand a complex system, several "observers" with fundamentally different qualifications are needed (for example, a mechanical engineer, a programmer, a computer technician, an economist, possibly a lawyer, psychologist, etc.).
 
 
-
+[up](#the-content)
 ## 28. Quantitative assessment of the complexity of a system with n elements and m connections.
 
 The quantitative formula for assessing the complexity of a system is given by the ratio of the number of connections to the maximum possible number of connections in a fully connected system without feedback loops. Thus, \( C_s \) provides a measure of the structural complexity of the system, and the higher the value, the more complex the system is considered.
@@ -808,7 +829,7 @@ C_s = m / n(n-1)
 This formula helps in quantifying the complexity of a system by comparing its actual interconnections to the maximum possible interconnections in a fully connected system. The higher the value of \( C_s \), the more complex the system is considered, indicating a higher level of structural complexity [Source  3].
 
 
-
+[up](#the-content)
 ## 29. Functional complexity of the system.
 
 The functional complexity of a system reflects the difficulty in creating, understanding, testing, and maintaining its functions. This complexity can be caused by various factors, such as the volume of functionality, the interconnection of functions, the level of abstraction, as well as the complexity of the algorithms and data used in the system. The assessment of functional complexity of a system can be based on the following factors:
@@ -835,7 +856,7 @@ The functional complexity of a system reflects the difficulty in creating, under
 
 
 
-
+[up](#the-content)
 ## 30. Dynamic complexity of the system.
 
 Dynamic complexity is the result of interactions within a system with temporal delays. Time delays between decision-making and results slow down the process of accumulating experience, testing hypotheses, and improving the system.
@@ -851,7 +872,7 @@ Key aspects of dynamic complexity include:
 
 Dynamic complexity is particularly prevalent in systems such as ecosystems, economies, social networks, and technological systems like computer networks and software systems. Understanding and managing dynamic complexity is crucial for effective system design, control, and optimization, as it can significantly impact the system's performance, stability, and adaptability.
 
-
+[up](#the-content)
 ## 31. Small, large, simple, complex systems are examples.
 1. **Small Systems:**
    - **Example:** A clock with a mechanism. It consists of a limited number of parts and performs a specific function - showing time.
@@ -872,7 +893,7 @@ Dynamic complexity is particularly prevalent in systems such as ecosystems, econ
    - **Example:** A production line with identical machines performing the same task. Each machine is simple in its function, but their number forms a large system.
 
 
-
+[up](#the-content)
 ## 32. Classification of systems by degree of organization.
 
 1. **Well-Organized Systems:**
@@ -887,19 +908,19 @@ Dynamic complexity is particularly prevalent in systems such as ecosystems, econ
    - **Description:** These systems have the ability to change their structure, adapt to changing conditions, and evolve over time without external management.
    - **Example:** A forest ecosystem, where elements (plants, animals) interact and can self-regulate their population and interaction.
 
-
+[up](#the-content)
 ## 33. Well-organized systems. Examples.
 Well-organized systems:
 - **Description:** These systems have a clear and stable structure. The internal elements interact in an organized and predictable manner.
 - **Example:** An industrial robot that performs a specific task within strictly defined parameters.
 
-
+[up](#the-content)
 ## 34. Poorly organized systems. Examples.
 Poorly organized systems (diffuse):
 - **Description:** These systems may have an undefined or weakly structured organization. The interaction between elements can be less predictable.
 - **Example:** Many social networks, where information and interaction can be diffuse and non-obvious.
 
-
+[up](#the-content)
 ## 35. Self–organizing systems are the main properties. Examples.
 Self-organizing systems have the ability to organize and structure their components without external management.
 
@@ -916,7 +937,7 @@ Self-organizing systems have the ability to organize and structure their compone
    - **Example:** A forest ecosystem, which is capable of recovering after natural disasters or climate changes.
 
 
-
+[up](#the-content)
 ## 36. Measuring the amount of information is the Hartley formula.
 Hartley proposed to determine the information I pertaining to one message by taking the logarithm of the total number of possible messages N:
       
@@ -932,7 +953,7 @@ I = log₂(N) = log₂(N1 * N2) = log₂(N1) + log₂(N2) = I1 + I2
 
 This formula allows for the quantification of the amount of information contained in a message based on the number of possible messages and the length of the message, under the assumption that all messages are equiprobable 
 
-
+[up](#the-content)
 ## 37. Shannon's formula for measuring the total amount of information.
 Shannon's formula is used to measure entropy and the amount of information in a system. This formula was developed by Claude Shannon. The formula looks as follows:
 
@@ -946,7 +967,7 @@ where:
 Shannon's formula allows for the estimation of the average "uncertainty" (or "degree of chaos") in a system. The higher the entropy, the less predictable the system is, and therefore, the more information is required to describe its state [Source  0][Source  4].
 
 
-
+[up](#the-content)
 ## 38. The entropy of the system.
 Entropy in the context of information theory, introduced by Claude Shannon, measures the degree of uncertainty or "disorder" in a system. Entropy is a measure of the average information needed to describe the state of the system. The formula for calculating entropy (H) in a system, where X is a random variable with n possible states, is given as follows:
 
@@ -966,14 +987,14 @@ H(X) = - ∑ᵢp(xi) log(p(xi))
    - Higher entropy systems require more information to describe accurately, while systems with lower entropy can be described with less information.
 
 
-
+[up](#the-content)
 ## 39. Entropy of a system with equally possible states.
 
 If the system has equally possible states, then the probability of each state P(xi) is the same for all states. In this case, the formula for calculating entropy is simplified.
 
 H(X) = - ∑ᵢp(xi) log(p(xi)) = - ∑ᵢ1/n log(1/n) = log(n)
 
-
+[up](#the-content)
 ## 40. The theorem on the maximum entropy of a system with a finite set of states.
 The Entropy of a system is maximum when all the elements of the system have the same probability i.e H(X) = log(n)
 If the probability of one of the n states of the system being equal to  1, then the entropy is equal to  0. The entropy of a system with equally possible states is equal to the logarithm of the number of states:
@@ -988,7 +1009,7 @@ n = 4 * 4 * 4 = 64  => H(x) = log2(64) = 6
 Determine the maximum possible entropy of a message consisting of  5 letters, where the total number of letters in the alphabet is equal to  32.
 n = 32⁵  => H(X) = log(32⁵) = 5 * log(32) = 25
 
-
+[up](#the-content)
 ## 41. Proof of the maximum entropy theorem of a system with a finite set of states.
 we need to prove that H(X) <= log(n)
 
@@ -1000,7 +1021,7 @@ then H(x) <= log(n)
 
 further more for H(X) == log(n) ==> log(1/nPx) == 1/nPx - 1   ==> 1/nPx = 1 ==> Px = 1/n
 
-
+[up](#the-content)
 ## 42. How to determine the maximum possible entropy of a system consisting of n elements, each of which can be in m possible states.
 To determine the maximum possible entropy of a system consisting of \(n\) elements, each of which can be in \(m\) possible states, you would follow a process that involves identifying the various states the system can exist in and the parameters involved in any constraints. The principle of maximum entropy suggests that the probability distribution that best represents the current state of knowledge about a system is the one with the largest entropy, considering precisely stated prior data or testable information.
 
@@ -1016,24 +1037,26 @@ This formula indicates that the maximum entropy increases linearly with the numb
 It's important to note that this calculation assumes that all \(m^n\) states are equally probable, which might not be the case in a real system. The principle of maximum entropy is used to find the most unbiased or uninformed distribution, given a set of constraints or conditions [Source  0][Source  4].
 
 
-
+[up](#the-content)
 ## 43. The entropy of a system that is an association of independent systems.
 let X and Y be two sets of descreet variables with a probability law 
 H(X,Y) = - ∑ ∑ Pxy log(Pxy)
 H(x,y) = H(X) + H(Y|X) = H(Y) + H(X|Y)
 if X and Y are independent then H(X,Y) = H(X) + H(Y)
 
-
+[up](#the-content)
 ## 44. Proof of the theorem on calculating the entropy of a system consisting of independent systems.
 
 H(X,Y) = - ∑ ∑ Pxy log(Pxy) = - ∑ ∑ Pxy log(Pxy) =  - ∑ ∑ Px.Py|x log(Px.Py|x) =  - ∑ ∑ Pxy log(Py|x)  - ∑ ∑ Pxy log(Px) = H(Y|X) + H(X)
 since X and Y are independent H(X,Y) = H(X) + H(Y)
 
+[up](#the-content)
 ## 45. Calculation of the total conditional entropy of systems.
 
 H(X|Y) = - ∑Py ∑Px|y log(Px|y) = - ∑∑ Pxy log(Px|y)
 H(X,Y) = - ∑ ∑ Pxy log(Pxy) = - ∑ ∑ Pxy log(Pxy) =  - ∑ ∑ Px.Py|x log(Px.Py|x) =  - ∑ ∑ Pxy log(Py|x)  - ∑ ∑ Pxy log(Px) = H(Y|X) + H(X)
 
+[up](#the-content)
 ## 46. Proof of the theorem on the total conditional entropy of systems.
 
 H(X|Y) = - ∑Py ∑Px|y log(Px|y) = - ∑∑ Pxy log(Px|y)
@@ -1042,7 +1065,7 @@ H(X|Y) = - ∑Py ∑Px|y log(Px|y) = - ∑∑ Pxy log(Px|y)
 ## 47. Calculation of the entropy of a system that is a union of dependent systems.
 ## 48. Proof of the theorem on calculating the entropy of a system that is a union of dependent systems.
  ...
-
+[up](#the-content)
 ## 49. Additivity of the system. Examples.
 
 The additivity of a system means that the entropy of a system composed of independent subsystems is equal to the sum of the entropies of these subsystems. In other words, if we have a system S consisting of subsystems A and B, the additivity of the system is expressed as follows:
@@ -1058,6 +1081,7 @@ Examples:
 4. **Two independent quantities of information**
 
 
+[up](#the-content)
 ## 50. Equifinality in the theory of systems. Examples.
 
 Equifinality in the theory of systems means that different systems can achieve the same final state (final state) through various paths or through different processes. This concept emphasizes that despite differences in initial conditions or structures of systems, they all can converge to a common final outcome.
@@ -1070,6 +1094,7 @@ Examples:
 5. **Ecosystems:**
 
 
+[up](#the-content)
 ## 51. Patterns of the part and the whole. Emergence. Examples.
 Laws of parts and wholes:
 - **Laws of parts and wholes** reflect the interaction and influence of individual components (parts) on the behavior and properties of the entire system (whole) and vice versa.
@@ -1093,7 +1118,7 @@ Laws of parts and wholes:
      - **Example:** Control of blood glucose levels in the body through the release of insulin and glucagon to maintain a stable sugar level.
 
 
-
+[up](#the-content)
 ## 52. Communication of the system. Examples.
 Information flow and communication are crucial for the functioning and coordination of systems. Communication channels facilitate the exchange of information between components, influencing the system's behavior and evolution.
 Communicativeness of a system refers to the system's ability to interact, exchange information, and transmit messages among its parts. Here are several examples of system communicativeness:
@@ -1108,7 +1133,7 @@ Communicativeness of a system refers to the system's ability to interact, exchan
 8. **Biological Systems:**  Biological organisms exchange signals and information through biochemical processes, neural impulses, and other mechanisms, ensuring communicativeness within the organism.
 
 
-
+[up](#the-content)
 ## 53. Zipf's principle of least action.
 Zipf's Principle of Least Effort, also known as Zipf's Law, is a theory that suggests the primary principle guiding human actions, including verbal communication, is to expend the least amount of effort to accomplish a task. This principle was first articulated by Italian philosopher Guillaume Ferrero in  1894 and later studied by linguist George Kingsley Zipf, who applied it to the statistical study of word use frequencies, proposing that the distribution of word usage is due to a tendency to communicate efficiently with the least effort. This theory is known as Zipf's Law.
 
@@ -1122,7 +1147,7 @@ where f is the frequency and r is the rank of a word, so the frequency of a word
 
 f = C/r  where c is a constanct of proportionality that depends on the dataset being analyzed.
 
-
+[up](#the-content)
 ## 54. The main content of the system analysis.
 
 System analysis is an approach to studying and solving problems based on the principles of system theory. The main content of system analysis includes the following elements:
@@ -1141,7 +1166,7 @@ System analysis is an approach to studying and solving problems based on the pri
 
 
 
-
+[up](#the-content)
 ## 55. Types of problem handling in system analysis.
 
 **Absolution:**
@@ -1157,7 +1182,7 @@ A way of action that solves the problem in the best (optimal) way under the give
 A way of action aimed at removing the problem by changing the conditions or changes in the system and its environment, so as not only to solve this problem but also for the system to overcome future problems itself. The method of dissolution is applied in the most advanced forms of systematic studies.
 
 
-
+[up](#the-content)
 ## 56. Classification of problems in system analysis.
 
 All problems can be divided into three classes:
@@ -1175,7 +1200,7 @@ All problems can be divided into three classes:
    - **Example:** Developing innovative ideas where there are no standard criteria for assessment, and the evaluation of novelty and potential value is required.
 
 
-
+[up](#the-content)
 ## 57. Methodology of system analysis.
 The methodology of system analysis represents a systematized and structured set of principles, methods, and tools used for studying and solving problems in complex systems. The main elements include:
 
@@ -1193,21 +1218,21 @@ The methodology of system analysis represents a systematized and structured set 
 12. **Documentation:**
 
 
-
+[up](#the-content)
 ## 58. Principles of complexity and consistency in system analysis. Examples.
 
 
 The principle of comprehensiveness refers to the idea of considering all aspects and components of a system or situation in a holistic manner. This approach emphasizes the importance of understanding the full scope of a problem or system, including all its interconnected parts and the external environment it operates within. It involves examining all possible dimensions and perspectives, across different times and under various conditions, to ensure a complete understanding. This principle is crucial in system analysis and problem-solving, as it ensures that no aspect of the system is overlooked and that solutions are tailored to address the system as a whole, rather than focusing on isolated parts.
 
 
-
+[up](#the-content)
 ## 59. Examples of configurators in system analysis.
 A configurator in system analysis is referred to as a set of various descriptions (representations) of the system being studied, sufficient for conducting systematic analysis of the problem at hand. It is determined by the nature of the problem-containing system. Objects in any subject area enter various relationships with each other and with the external world. A complete description of the system must consist of a multitude of its descriptions, taken in different relationships.
 
 Example of a configurator:
 A computing system may have such descriptions: M – mathematical, F – functional, A – algorithmic, S – structural, or the system scheme, C – constructor, D – designer, or ergonomic, E – operational, T – technological. This entire set of descriptions can be represented as a set K = {M, F, A, S, C, E, T, …}, or in general case K = {Kj | j =  1, ..., n}.
 
-
+[up](#the-content)
 ## 60. The main stages of the system analysis.
 The analysis of existing regulations shows that five broadened stages can be identified, in one way or another represented in practically all variants of the cyclical system sequence. These stages are:
 
@@ -1217,7 +1242,7 @@ The analysis of existing regulations shows that five broadened stages can be ide
 4. **Implementing solutions**
 5. **Evaluating results**
 
-
+[up](#the-content)
 ## 61. The model of the system. Examples.
 Under the term "model of a system," we will understand any other system that possesses the same formal structure under the following conditions:
 
@@ -1241,7 +1266,7 @@ System models can take various forms depending on the purpose of analysis and th
 
 6. **Conceptual Models**: Conceptual models capture the conceptual or high-level aspects of the system, focusing on its purpose, requirements, and stakeholders. These models provide a conceptual framework for understanding the system's goals, scope, and context, facilitating communication and consensus-building among stakeholders. Examples include concept maps, mind maps, and use case diagrams.
 
-
+[up](#the-content)
 ## 62. Classification of models. Types of models.
 The classification of models in system analysis depends on various factors such as the goals of modeling, the level of abstraction, the type of data, and others. The types of models include:
 
@@ -1258,7 +1283,7 @@ The classification of models in system analysis depends on various factors such 
 11. **Information Models:**
 
 
-
+[up](#the-content)
 ## 63. Cluster analysis – basic concepts.
 Cluster analysis is a method of data analysis aimed at identifying internal structures and grouping similar objects within a dataset. The key concepts used in cluster analysis include:
 
@@ -1273,6 +1298,7 @@ Cluster analysis is a method of data analysis aimed at identifying internal stru
 9. **Linkage (Cluster Connection):** A method for determining the distance between clusters in hierarchical clustering. Examples include single (minimum distance), complete (maximum distance), and average linkage.
 
 
+[up](#the-content)
 ## 64. The k-means algorithm.
 To cluster data using the K-means method, follow these steps:
 
@@ -1306,7 +1332,7 @@ Keep in mind that K-means has some limitations:
 For data with complex cluster shapes or when the number of clusters is not known, other clustering algorithms like Spectral Clustering or DBSCAN might be more suitable .
 
 
-
+[up](#the-content)
 ## 65. Hierarchical clustering algorithms.
 
 Hierarchical clustering is a method of cluster analysis that seeks to build a hierarchy of clusters. It is a way of grouping data points based on their similarities, and it can be particularly useful when you do not know the number of clusters in advance. Hierarchical clustering can be either agglomerative (bottom-up) or divisive (top-down) .
@@ -1346,7 +1372,7 @@ Limitations of Hierarchical Clustering:
 
 
 
-
+[up](#the-content)
 ## 66. The algorithm for constructing a dendrogram.
 
 Dendrogram:
@@ -1373,6 +1399,7 @@ Here's a more detailed breakdown of the algorithm:
 This algorithm can be implemented using various programming languages such as Python (using libraries like SciPy or scikit-learn), R, or MATLAB, which provide built-in functions for hierarchical clustering and dendrogram visualization.
 
 
+[up](#the-content)
 ## 67. The distance between clusters.
 
 1. **Distance between Nearest Neighbors – Closest Objects of Clusters**:
@@ -1387,6 +1414,8 @@ This algorithm can be implemented using various programming languages such as Py
    This calculates the average distance between all pairs of objects in two clusters. It's another metric used in hierarchical clustering.
    Formula: \( d_{\text{average}}(C_i, C_j) = \frac{1}{|C_i| \cdot |C_j|} \sum_{x \in C_i} \sum_{y \in C_j} \text{distance}(x, y) \)
 
+
+[up](#the-content)
 ## 68. The distances between the elements. Euclid's distance, etc.
 4. **Distances between Elements. Euclidean and Others**:
    This section explains various distance measures used in hierarchical clustering and other machine learning methods to determine similarity or dissimilarity between elements.
@@ -1412,10 +1441,12 @@ This algorithm can be implemented using various programming languages such as Py
 These distance measures are fundamental in clustering algorithms for determining the similarity or dissimilarity between data points or clusters. They are crucial for clustering methods to group similar objects together and identify meaningful patterns within data.
 
 
+[up](#the-content)
 ## 69. The Levenshtein distance.
 The Levenshtein distance, also known as edit distance, is a measure of the difference between two sequences. Informally, it is the minimum number of single-character edits (insertions, deletions, or substitutions) required to change one word into the other. It is named after the Soviet mathematician Vladimir Levenshtein, who considered this distance in 1965. The Levenshtein distance may also be referred to as edit distance, although that term may also denote a larger family of distance metrics known collectively as edit distance. It is closely related to pairwise string alignments 1.
 
 
+[up](#the-content)
 ## 70. The Wagner—Fischer algorithm for calculating the Levenshtein distance.
 The Wagner–Fischer algorithm, also known as the Levenshtein distance algorithm, is a dynamic programming algorithm used to compute the minimum number of single-character edits (insertions, deletions, or substitutions) required to change one word into another. This algorithm is particularly useful for applications such as spell checking, DNA sequence alignment, and natural language processing.
 
@@ -1431,6 +1462,7 @@ The Wagner–Fischer algorithm, also known as the Levenshtein distance algorithm
 This algorithm has a time complexity of O(mn), where m and n are the lengths of the two input strings. The space complexity is also O(mn) due to the matrix used to store intermediate results. Despite its simplicity, the Levenshtein distance algorithm is powerful for tasks like spelling correction, DNA sequence alignment, and natural language processing, where understanding the similarity between strings is crucial [Source  0][Source  2][Source  4].
 
 
+[up](#the-content)
 ## 71. IDEF0 is a model. Examples.
 IDEF0, a compound acronym ("Icam DEFinition for Function Modeling", where ICAM is an acronym for "Integrated Computer Aided Manufacturing"), is a function modeling methodology for describing manufacturing functions, which offers a functional modeling language for the analysis, development, reengineering and integration of information systems, business processes or software engineering analysis.[1]
 
@@ -1440,46 +1472,62 @@ IDEF0 uses a simple syntax where each activity is represented by a verb-based la
 
 
 
-
+[up](#the-content)
 ## 72. UML. Use Case Diagram – Purpose, Notation, and Examples.
 - **Purpose:** To show the interactions between users (participants) and various parts of the system.
 - **Notation:** Comprises actors, use cases, and associations.
 - **Example:** A use case diagram for an online banking system might include actors such as "Customer" and "Bank Employee," with use cases like "Transfer Funds," "Check Balance," and "Report Lost Card." Associations would connect the actors to the use cases they interact with.
 
+
+[up](#the-content)
 ## 73. UML. Sequence Diagram – Purpose, Notation, and Examples.
 - **Purpose:** To illustrate the sequence of messages exchanged by objects to accomplish a task.
 - **Notation:** Includes objects, lifelines, and messages.
 - **Example:** A sequence diagram for a login process in a banking application might show the "User" object sending a "Login Request" message to the "Authentication System" object, which then responds with a "Login Response" message.
 
+
+[up](#the-content)
 ## 74. UML. Collaboration Diagram – Purpose, Notation, and Examples.
 - **Purpose:** To depict interactions between objects based on their roles.
 - **Notation:** Includes objects, links, and messages.
 - **Example:** A collaboration diagram for a booking system might show a "Customer" object sending a "Book Flight" message to a "Flight Booking System" object, which then interacts with a "Payment System" object to process the payment.
 
+
+[up](#the-content)
 ## 75. UML. Class Diagram – Purpose, Notation, and Examples.
 - **Purpose:** To describe the static structure of the system, showing classes, their attributes, operations, and relationships.
 - **Notation:** Includes classes, attributes, operations, and associations.
 - **Example:** A class diagram for a library system might include classes like "Book," "Author," and "Borrower," with attributes such as "title" for "Book," "name" for "Author," and "borrowedBooks" for "Borrower." It would also show associations between these classes, such as a "Book" being "written by" an "Author" and a "Borrower" "borrowing" a "Book."
 
+
+[up](#the-content)
 ## 76. UML. Class Diagram – Relationships Between Classes.
 - **Types:** Association, Aggregation, Composition, Inheritance.
 - **Example:** In a class diagram for a school system, a "Student" class might be associated with a "Course" class through an "enrolls in" relationship, indicating that a student can enroll in multiple courses.
 
+
+[up](#the-content)
 ## 77. UML. State Diagram – Purpose, Notation, and Examples.
 - **Purpose:** To model the dynamic behavior of an individual object, showing its states and transitions.
 - **Notation:** Includes states, transitions, and events.
 - **Example:** A state diagram for a vending machine might show states like "Idle," "Out of Stock," "Vending," and transitions between these states based on events like "Insert Coin" or "Select Product."
 
+
+[up](#the-content)
 ## 78. UML. Component Diagram – Purpose, Notation, and Examples.
 - **Purpose:** To show how components connect to form larger components or software systems.
 - **Notation:** Includes components, interfaces, and relationships.
 - **Example:** A component diagram for a web application might show components like "Frontend," "Backend," and "Database," with interfaces indicating how they interact, such as the "Backend" providing a REST API to the "Frontend."
 
+
+[up](#the-content)
 ## 79. UML. Deployment Diagram – Purpose, Notation, and Examples.
 - **Purpose:** To model the physical deployment of artifacts on nodes.
 - **Notation:** Includes nodes and artifacts.
 - **Example:** A deployment diagram for a distributed application might show nodes representing servers or cloud instances, with artifacts like "Web Server," "Database Server," and "Application Server" deployed on these nodes.
 
+
+[up](#the-content)
 ## 80. Principles for Generating Programming Code from UML Diagrams.
 - **Principle:** Using UML diagrams as the basis for writing actual code, maintaining consistency with the design.
 - **Example:** Generating Java or C++ code structures based on a UML class diagram.
