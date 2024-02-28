@@ -105,6 +105,7 @@
 [read](#10-the-scheme-of-the-system-with-a-single-feedback-examples)
 11. Stratification as a means of detailing the description of the system.
 12. The structure of the system. Types of structures.
+[read](#12-the-structure-of-the-system-types-of-structures)
 13. Network structures: definition and examples.
 14. Hierarchical structures: definition and examples.
 15. Multilevel hierarchical structures, strata and echelon: definition and examples.
@@ -116,19 +117,23 @@
 20. Matrix structures, strong and weak connections: definition and examples.
 [read](#20-matrix-structures-strong-and-weak-connections-definition-and-examples)
 21. Principles of classification of systems.
+[read](#21-principles-of-classification-of-systems)
 22. Open and closed systems. Examples.
 23. Classification of systems by complexity
+[read](#23-classification-of-systems-by-complexity)
 24. A large system. Examples.
 25. Estimates of the complexity of the systems. Examples.
 [read](#25-estimates-of-the-complexity-of-the-systems-examples)
 26. Big and complicated: comparison. Examples.
 27. A large and complex system: the observer.
 28. Quantitative assessment of the complexity of a system with n elements and m connections.
+[read](#28-quantitative-assessment-of-the-complexity-of-a-system-with-n-elements-and-m-connections)
 29. Functional complexity of the system.
 30. Dynamic complexity of the system.
 [read](#30-dynamic-complexity-of-the-system)
 31. Small, large, simple, complex systems are examples.
 32. Classification of systems by degree of organization.
+[read](#32-classification-of-systems-by-degree-of-organization)
 33. Well-organized systems. Examples.
 34. Poorly organized systems. Examples.
 35. Self–organizing systems are the main properties. Examples.
@@ -136,6 +141,7 @@
 36. Measuring the amount of information is the Hartley formula.
 37. Shannon's formula for measuring the total amount of information.
 38. The entropy of the system.
+[read](#38-the-entropy-of-the-system)
 39. Entropy of a system with equally possible states.
 40. The theorem on the maximum entropy of a system with a finite set of states.
 [read](#40-the-theorem-on-the-maximum-entropy-of-a-system-with-a-finite-set-of-states)
@@ -152,25 +158,33 @@
 50. Equifinality in the theory of systems. Examples.
 [read](#50-equifinality-in-the-theory-of-systems-examples)
 51. Patterns of the part and the whole. Emergence. Examples.
+[read](#51-patterns-of-the-part-and-the-whole-emergence-examples)
 52. Communication of the system. Examples.
+[read](#52-communication-of-the-system-examples)
 53. Zipf's principle of least action.
+[read](#53-zipfs-principle-of-least-action)
 54. The main content of the system analysis.
+[read](#54-the-main-content-of-the-system-analysis)
 55. Types of problem handling in system analysis.
 [read](#55-types-of-problem-handling-in-system-analysis)
 56. Classification of problems in system analysis.
 57. Methodology of system analysis.
+[read](#57-methodology-of-system-analysis)
 58. Principles of complexity and consistency in system analysis. Examples.
 59. Examples of configurators in system analysis.
 60. The main stages of the system analysis.
 [read](#60-the-main-stages-of-the-system-analysis)
 61. The model of the system. Examples.
+[read](#61-the-model-of-the-system-examples)
 62. Classification of models. Types of models.
+[read](#62-classification-of-models-types-of-models)
 63. Cluster analysis – basic concepts.
 64. The k-means algorithm.
 65. Hierarchical clustering algorithms.
 [read](#65-hierarchical-clustering-algorithms)
 66. The algorithm for constructing a dendrogram.
 67. The distance between clusters.
+[read](#67-the-distance-between-clusters)
 68. The distances between the elements. Euclid's distance, etc.
 69. The Levenshtein distance.
 70. The Wagner—Fischer algorithm for calculating the Levenshtein distance.
