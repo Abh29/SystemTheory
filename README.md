@@ -190,6 +190,7 @@
 70. The Wagner—Fischer algorithm for calculating the Levenshtein distance.
 [read](#70-the-wagnerfischer-algorithm-for-calculating-the-levenshtein-distance)
 71. IDEF0 is a model. Examples.
+[read](#71-idef0-is-a-model-examples)
 72. UML. A diagram of use cases – purpose, notation, and examples.
 73. UML. Sequence diagram – purpose, notation and examples.
 74. UML. Cooperation diagram – purpose, notation and examples.
